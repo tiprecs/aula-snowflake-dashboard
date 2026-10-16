@@ -62,7 +62,7 @@ def run_query(query):
 # HEADER
 # ============================================================================
 
-st.title("📦 TPCH - Analytics Dashboard - " + st.secrets["snowflake"]["user"].lower() )
+st.title("📦 TPCH - Analytics Dashboard - " )
 st.markdown("**Integração Streamlit + Snowflake Data Warehouse**")
 
 # ============================================================================
